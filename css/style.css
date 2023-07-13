@@ -186,6 +186,17 @@ form Input {
     font-size: 30px;
     margin-left: 1%;
 }
+.contact-block img{
+    float: left;
+    margin: 0 30px 0 0;
+    border: 1px solid #424170;
+    padding: 5px;
+}
+.contact-block h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #28a745;
+}
 
 i{
     padding: 10px;
